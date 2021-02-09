@@ -7,4 +7,5 @@ path = r"C/download ...."
 
 
 then run the python script
+after that go the the folder and see your gift
 
