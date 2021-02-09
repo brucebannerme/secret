@@ -1,0 +1,7 @@
+# secret
+secret 
+
+fill the path = "" to the location of the downloaded folder.
+If using windows put r.
+path = r"C/download ...."
+
